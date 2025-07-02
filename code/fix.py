@@ -139,4 +139,4 @@ def plot_all_spectra(
 # === 実行例 ===
 if __name__ == '__main__':
     # plot_all_spectra('../data/MoNA-GC-MS_filtered_ionization_output.sdf', '../data/comparison_with_smiles_inchi.pdf')
-    plot_all_spectra('../data/MoNA-GC-MS_filtered_ionization_output.sdf', '../data/comparison_all_with_smiles_inchi.pdf')
+    plot_all_spectra('../data/MoNA_dedup_output.sdf', '../data/MoNA-dedup_all_with_smiles_inchi.pdf')
