@@ -108,6 +108,14 @@ class MassSpectraPrediction(object):
     # if hparams.reverse_prediction or hparams.bidirectional_prediction:
     feature_names.append(fmap_constants.MOLECULE_WEIGHT)
 
+    # IRMで環境を計算する場合、ATOM_IDSが必要
+    try:
+      irm_lambda = float(getattr(hparams, 'irm_lambda'))
+    except Exception:
+      irm_lambda = 0.0
+    if irm_lambda > 0.0:
+      feature_names.append(fmap_constants.ATOM_IDS)
+
     return list(
         set(feature_names + self._get_model_specific_feature_names(hparams)))
 
@@ -150,6 +158,10 @@ class MassSpectraPrediction(object):
         gate_bidirectional_predictions=False,
         filter_library_matches_by_mass=False,
         library_matching_mass_tolerance=5,
+        # IRM関連のハイパーパラメータ（デフォルト無効）
+        irm_lambda=0.0,
+        irm_env_mode='has_f',  # 'has_f' または 'f_bins'
+        irm_min_env_count=1,
     )
 
     # Subclasses add architecture-specific hparams here.
@@ -235,28 +247,108 @@ class MassSpectraPrediction(object):
     return self.make_prediction_ops(feature_dict, hparams, mode, reuse)[0]
 
   def make_loss(self, pred_val, feature_dict, hparams):
-    """Make training loss function."""
+    """Make training loss function (IRM対応含む)."""
     true_spectra = feature_dict[fmap_constants.DENSE_MASS_SPEC]
+
+    # IRM無効時は従来の損失
+    if not hasattr(hparams, 'irm_lambda') or hparams.irm_lambda <= 0.0:
+      if hparams.loss == 'generalized_mse':
+        return similarity_lib.GeneralizedCosineSimilarityProvider(
+            hparams).make_training_loss(true_spectra, pred_val)
+      elif hparams.loss == 'cross_entropy':
+        normalized_true_spectra = (
+            true_spectra / tf.maximum(
+                tf.reduce_sum(true_spectra, axis=1, keep_dims=True), 0.00001))
+        return tf.reduce_mean(
+            tf.nn.softmax_cross_entropy_with_logits(
+                labels=normalized_true_spectra, logits=pred_val))
+      elif hparams.loss == 'max_margin':
+        target_indices = feature_dict[fmap_constants.INDEX_TO_GROUND_TRUTH_ARRAY]
+        library = feature_dict['SPECTRUM_PREDICTION_LIBRARY']
+        similarity_provider = similarity_lib.GeneralizedCosineSimilarityProvider(
+            hparams)
+        return similarity_lib.max_margin_ranking_loss(
+            pred_val, target_indices, library, similarity_provider,
+            hparams.ranking_loss_margin)
+      else:
+        raise ValueError('loss type %s not supported' % hparams.loss)
+
+    # =============== IRM有効時の処理 ===============
+    # 1) サンプル毎のベース損失を計算
+    def _per_example_loss_generalized_mse(y_true, y_pred):
+      # i^mass_power の重みを作成
+      num_bins = tf.shape(y_true)[1]
+      idx = tf.cast(tf.range(1, num_bins + 1), tf.float32)
+      weights = tf.pow(idx, hparams.mass_power)
+      weights = weights / tf.maximum(tf.reduce_sum(weights), 1e-8)
+      # [batch, bins]
+      se = tf.square(y_true - y_pred) * weights[tf.newaxis, :]
+      return tf.reduce_mean(se, axis=1)  # [batch]
+
+    def _per_example_loss_cross_entropy(y_true, logits):
+      y_true_norm = y_true / tf.maximum(
+          tf.reduce_sum(y_true, axis=1, keep_dims=True), 1e-5)
+      return tf.nn.softmax_cross_entropy_with_logits(
+          labels=y_true_norm, logits=logits)  # [batch]
+
     if hparams.loss == 'generalized_mse':
-      return similarity_lib.GeneralizedCosineSimilarityProvider(
-          hparams).make_training_loss(true_spectra, pred_val)
+      per_ex_loss = _per_example_loss_generalized_mse(true_spectra, pred_val)
     elif hparams.loss == 'cross_entropy':
-      normalized_true_spectra = (
-          true_spectra / tf.maximum(
-              tf.reduce_sum(true_spectra, axis=1, keep_dims=True), 0.00001))
-      return tf.reduce_mean(
-          tf.nn.softmax_cross_entropy_with_logits(
-              labels=normalized_true_spectra, logits=pred_val))
-    elif hparams.loss == 'max_margin':
-      target_indices = feature_dict[fmap_constants.INDEX_TO_GROUND_TRUTH_ARRAY]
-      library = feature_dict['SPECTRUM_PREDICTION_LIBRARY']
-      similarity_provider = similarity_lib.GeneralizedCosineSimilarityProvider(
-          hparams)
-      return similarity_lib.max_margin_ranking_loss(
-          pred_val, target_indices, library, similarity_provider,
-          hparams.ranking_loss_margin)
+      per_ex_loss = _per_example_loss_cross_entropy(true_spectra, pred_val)
     else:
-      raise ValueError('loss type %s not supported' % hparams.loss)
+      raise ValueError('IRMはloss=%sに未対応です' % hparams.loss)
+
+    base_risk = tf.reduce_mean(per_ex_loss)
+
+    # 2) 環境の定義（F原子の有無/個数）
+    atom_ids = feature_dict.get(fmap_constants.ATOM_IDS, None)
+    if atom_ids is None:
+      raise ValueError('IRMを有効化しましたが、ATOM_IDSがロードされていません。')
+    is_f = tf.equal(atom_ids, 9)  # フッ素の原子番号=9
+    f_count = tf.reduce_sum(tf.cast(is_f, tf.int32), axis=1)  # [batch]
+
+    env_mode = getattr(hparams, 'irm_env_mode', 'has_f')
+    env_masks = []
+    if env_mode == 'has_f':
+      env_masks = [tf.equal(f_count, 0), tf.greater(f_count, 0)]
+    elif env_mode == 'f_bins':
+      env_masks = [
+          tf.equal(f_count, 0),
+          tf.logical_and(tf.greater_equal(f_count, 1), tf.less_equal(f_count, 2)),
+          tf.greater_equal(f_count, 3),
+      ]
+    else:
+      raise ValueError('未知のirm_env_mode: %s' % env_mode)
+
+    # 3) IRMペナルティ（IRMv1）
+    with tf.variable_scope('irm', reuse=tf.AUTO_REUSE):
+      irm_scale = tf.get_variable('scale', shape=[], initializer=tf.ones_initializer())
+
+    def _env_penalty(mask):
+      mask = tf.cast(mask, tf.bool)
+      count = tf.reduce_sum(tf.cast(mask, tf.int32))
+      def _compute():
+        # スケールを掛けた予測で環境内の平均損失を計算
+        if hparams.loss == 'generalized_mse':
+          env_loss = _per_example_loss_generalized_mse(
+              true_spectra, irm_scale * pred_val)
+        else:
+          env_loss = _per_example_loss_cross_entropy(
+              true_spectra, irm_scale * pred_val)
+        env_loss = tf.boolean_mask(env_loss, mask)
+        r_e = tf.reduce_mean(env_loss)
+        g = tf.gradients(r_e, irm_scale)[0]
+        g = tf.where(tf.is_nan(g), tf.zeros_like(g), g)
+        return tf.square(g)
+      return tf.cond(count > 0, _compute, lambda: tf.constant(0.0))
+
+    penalties = [ _env_penalty(m) for m in env_masks ]
+    irm_penalty = tf.add_n(penalties) if len(penalties) > 1 else penalties[0]
+
+    tf.summary.scalar('irm/penalty', irm_penalty)
+    tf.summary.scalar('irm/base_risk', base_risk)
+
+    return base_risk + hparams.irm_lambda * irm_penalty
 
   def _mask_prediction_by_mass(self, raw_prediction, feature_dict, hparams):
     """Zero out predictions to the right of the maximum possible mass."""

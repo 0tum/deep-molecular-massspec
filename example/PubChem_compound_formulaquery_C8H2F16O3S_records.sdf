@@ -1,0 +1,2353 @@
+2782371
+  -OEChem-06112523142D
+
+ 30 29  0     0  0  0  0  0  0999 V2000
+    6.3301    0.2500    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9641    0.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9641   -1.1160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0981    0.1160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0981   -1.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2320   -0.3840    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320   -2.1160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4282   -0.1160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4282    1.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2942    0.3840    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2942    2.1160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.2500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660   -0.8840    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660   -2.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5263    2.2500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1603    0.8840    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1603    2.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8301   -0.6160    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8301    1.1160    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7942    1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6603    1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6636   -0.2249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4607   -0.2249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  1 19  2  0  0  0  0
+  1 20  2  0  0  0  0
+  1 21  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 25  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 27  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 25 29  1  0  0  0  0
+ 25 30  1  0  0  0  0
+ 26 28  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+2782371
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+665
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+19
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+7
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQBwMcBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGwQAAAAACACgwBIAAAAAAAIAAAAAAHBAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2,2,3,3,4,4,4-heptafluorobutyl 1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulfonate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,1,2,2,3,3,4,4,4-nonafluoro-1-butanesulfonic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2,2,3,3,4,4,4-heptafluorobutyl 1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulfonate
+
+> <PUBCHEM_IUPAC_NAME>
+2,2,3,3,4,4,4-heptafluorobutyl 1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulfonate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2,2,3,3,4,4,4-heptakis(fluoranyl)butyl 1,1,2,2,3,3,4,4,4-nonakis(fluoranyl)butane-1-sulfonate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulfonic acid 2,2,3,3,4,4,4-heptafluorobutyl ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H2F16O3S/c9-2(10,3(11,12)6(17,18)19)1-27-28(25,26)8(23,24)5(15,16)4(13,14)7(20,21)22/h1H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+TXGIYYDHRSACPQ-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+5.3
+
+> <PUBCHEM_EXACT_MASS>
+481.9469157
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H2F16O3S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+482.14
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(C(C(F)(F)F)(F)F)(F)F)OS(=O)(=O)C(C(C(C(F)(F)F)(F)F)(F)F)(F)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(C(C(C(F)(F)F)(F)F)(F)F)OS(=O)(=O)C(C(C(C(F)(F)F)(F)F)(F)F)(F)F
+
+> <PUBCHEM_CACTVS_TPSA>
+51.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+481.9469157
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+28
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+21954450
+  -OEChem-06112523142D
+
+ 30 29  0     0  0  0  0  0  0999 V2000
+    9.7942    2.0670    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8301    0.9330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8301   -0.7990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6962    1.4330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6962   -0.2990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9641    0.4330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9641   -1.2990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5622    0.2010    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5622    1.9330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0981   -0.0670    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0981   -1.7990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4282    0.7010    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4282    2.4330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2320   -0.5670    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320   -2.2990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.4330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.9330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6603    2.5670    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2942    1.2010    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2942    2.9330    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    1.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    1.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.3130    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1972    2.2570    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  1 19  2  0  0  0  0
+  1 20  2  0  0  0  0
+  1 26  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 28 29  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+21954450
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+689
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+19
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+8
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQBwMcBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQQACAAACACAQBAAAAAAAIIAAAAAAHBAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAEAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-hexadecafluoro-1-octanesulfonic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_NAME>
+1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-hexadecakis(fluoranyl)octane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H2F16O3S/c9-1(10)2(11,12)3(13,14)4(15,16)5(17,18)6(19,20)7(21,22)8(23,24)28(25,26)27/h1H,(H,25,26,27)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+DHYPEWXXSPZJNA-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.8
+
+> <PUBCHEM_EXACT_MASS>
+481.9469157
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H2F16O3S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+482.14
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(C(C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(C(C(C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
+
+> <PUBCHEM_CACTVS_TPSA>
+62.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+481.9469157
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+28
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+57093736
+  -OEChem-06112523142D
+
+ 30 29  0     1  0  0  0  0  0999 V2000
+    9.7942    0.4330    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8301    1.2990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8301   -0.4330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6962    0.0670    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6962    1.7990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9641    0.7990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9641   -0.9330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    2.4330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0981    0.2990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0981   -1.4330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4282    1.7990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4282    0.0670    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2320   -0.2010    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320   -1.9330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.0670    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660   -0.7010    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660   -2.4330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6603   -0.0670    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2942    1.2990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2942   -0.4330    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    1.4330    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.5981   -0.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    0.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5252    1.7430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1972    0.2430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  1 19  2  0  0  0  0
+  1 20  2  0  0  0  0
+  1 26  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 24 29  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+57093736
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+686
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+19
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+7
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQBwMcBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQQACAAACACAQBAAAAAAAIIAAAAAAHBAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAEAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,1,2,3,3,4,4,5,5,6,6,7,7,8,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,1,2,3,3,4,4,5,5,6,6,7,7,8,8,8-hexadecafluoro-1-octanesulfonic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1,1,2,3,3,4,4,5,5,6,6,7,7,8,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_NAME>
+1,1,2,3,3,4,4,5,5,6,6,7,7,8,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,1,2,3,3,4,4,5,5,6,6,7,7,8,8,8-hexadecakis(fluoranyl)octane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,1,2,3,3,4,4,5,5,6,6,7,7,8,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H2F16O3S/c9-1(3(12,13)28(25,26)27)2(10,11)4(14,15)5(16,17)6(18,19)7(20,21)8(22,23)24/h1H,(H,25,26,27)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+IHOYWGZJDQRSPV-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.8
+
+> <PUBCHEM_EXACT_MASS>
+481.9469157
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H2F16O3S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+482.14
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(C(F)(F)S(=O)(=O)O)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(C(F)(F)S(=O)(=O)O)F
+
+> <PUBCHEM_CACTVS_TPSA>
+62.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+481.9469157
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+28
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+24  8  3
+
+$$$$
+86701340
+  -OEChem-06112523142D
+
+ 30 29  0     0  0  0  0  0  0999 V2000
+    3.7320   -1.2500    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5622    1.1160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5622   -0.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6962    0.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6962   -1.1160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4282    1.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4282   -0.1160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8301    0.1160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8301   -1.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2942    0.3840    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2942    2.1160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5263    2.2500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1603    0.8840    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1603    2.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.2500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660   -0.8840    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660   -2.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2320   -0.3840    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320   -2.1160    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7942    1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6603    1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0656   -1.7250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8626   -1.7250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  1 19  2  0  0  0  0
+  1 20  2  0  0  0  0
+  1 28  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 26  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 26 29  1  0  0  0  0
+ 26 30  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+86701340
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+665
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+19
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+7
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQBwMcBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGwQAAAAACACggBIAAAAAAAIAAAAAAHAAAAAAAAAAAAAAAAAAAAIAAAAAAAAEAAAAAAGAwCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoroheptyl trifluoromethanesulfonate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+trifluoromethanesulfonic acid 2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoroheptyl ester
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoroheptyl trifluoromethanesulfonate
+
+> <PUBCHEM_IUPAC_NAME>
+2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoroheptyl trifluoromethanesulfonate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2,2,3,3,4,4,5,5,6,6,7,7,7-tridecakis(fluoranyl)heptyl tris(fluoranyl)methanesulfonate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+trifluoromethanesulfonic acid 2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoroheptyl ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H2F16O3S/c9-2(10,1-27-28(25,26)8(22,23)24)3(11,12)4(13,14)5(15,16)6(17,18)7(19,20)21/h1H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+UIXAINLEZQFTRQ-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+5.3
+
+> <PUBCHEM_EXACT_MASS>
+481.9469157
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H2F16O3S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+482.14
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)OS(=O)(=O)C(F)(F)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)OS(=O)(=O)C(F)(F)F
+
+> <PUBCHEM_CACTVS_TPSA>
+51.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+481.9469157
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+28
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+88420725
+  -OEChem-06112523142D
+
+ 30 29  0     1  0  0  0  0  0999 V2000
+    9.7942    1.3170    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9641    0.6830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9641   -1.0490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8301    1.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8301   -0.5490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0981    0.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0981   -1.5490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6962   -0.0490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6962    1.6830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2320   -0.3170    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320   -2.0490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    2.3170    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.6830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5263    2.3170    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1603    0.9510    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1603    2.6830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    0.8170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2942    0.4510    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2942    2.1830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.6830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    1.3170    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.8660   -1.6830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6603    1.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    0.6970    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.0630    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  1 19  2  0  0  0  0
+  1 20  2  0  0  0  0
+  1 28  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 26  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 26 29  1  0  0  0  0
+ 27 30  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+88420725
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+658
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+19
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+8
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQBwMcBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGwQAAAAACACggBIAAAAAAAIAAAAAAHAAAAAAAAAAAAAAAAAAAAIAAAAAAAAEAAAAAAGAwCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,2,2,3,3,4,4,5,5,6,6,7,7-tridecafluoroheptyl trifluoromethanesulfonate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+trifluoromethanesulfonic acid 1,2,2,3,3,4,4,5,5,6,6,7,7-tridecafluoroheptyl ester
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1,2,2,3,3,4,4,5,5,6,6,7,7-tridecafluoroheptyl trifluoromethanesulfonate
+
+> <PUBCHEM_IUPAC_NAME>
+1,2,2,3,3,4,4,5,5,6,6,7,7-tridecafluoroheptyl trifluoromethanesulfonate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,2,2,3,3,4,4,5,5,6,6,7,7-tridecakis(fluoranyl)heptyl tris(fluoranyl)methanesulfonate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+trifluoromethanesulfonic acid 1,2,2,3,3,4,4,5,5,6,6,7,7-tridecafluoroheptyl ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H2F16O3S/c9-1(10)3(12,13)5(16,17)7(20,21)6(18,19)4(14,15)2(11)27-28(25,26)8(22,23)24/h1-2H
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+TWQCCJCLDLSVDR-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+5.6
+
+> <PUBCHEM_EXACT_MASS>
+481.9469157
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H2F16O3S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+482.14
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(C(C(C(C(C(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(OS(=O)(=O)C(F)(F)F)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(C(C(C(C(C(C(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(OS(=O)(=O)C(F)(F)F)F
+
+> <PUBCHEM_CACTVS_TPSA>
+51.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+481.9469157
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+28
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+26  12  3
+
+$$$$
+89296221
+  -OEChem-06112523142D
+
+ 30 29  0     1  0  0  0  0  0999 V2000
+    3.4030   -1.5670    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3671    1.2990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3671   -0.4330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5010    0.7990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5010   -0.9330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2331    0.0670    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2331    1.7990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6350    0.2990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6350   -1.4330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991    2.4330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7690   -0.2010    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7690   -1.9330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9651    1.7990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9651    0.0670    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1972   -0.0670    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8312    1.2990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8312   -0.4330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -2.0670    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9030   -0.7010    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9030   -2.4330    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    0.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -0.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331    0.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991    1.4330    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.2690   -1.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4651    0.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3312    0.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    1.7430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.7570    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  1 19  2  0  0  0  0
+  1 20  2  0  0  0  0
+  1 26  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 25 29  1  0  0  0  0
+ 27 28  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+89296221
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+686
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+19
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+7
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQBwMcBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQQACAAACACAQBAAAAAAAIIAAAAAAHBAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAEAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,1,2,2,3,3,4,4,5,5,6,7,7,8,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,1,2,2,3,3,4,4,5,5,6,7,7,8,8,8-hexadecafluoro-1-octanesulfonic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1,1,2,2,3,3,4,4,5,5,6,7,7,8,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_NAME>
+1,1,2,2,3,3,4,4,5,5,6,7,7,8,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,1,2,2,3,3,4,4,5,5,6,7,7,8,8,8-hexadecakis(fluoranyl)octane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,1,2,2,3,3,4,4,5,5,6,7,7,8,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H2F16O3S/c9-1(3(12,13)7(20,21)22)2(10,11)4(14,15)5(16,17)6(18,19)8(23,24)28(25,26)27/h1H,(H,25,26,27)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+XXMHPSZRHMGXLA-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.8
+
+> <PUBCHEM_EXACT_MASS>
+481.9469157
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H2F16O3S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+482.14
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(F)F)(C(C(F)(F)F)(F)F)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(F)F)(C(C(F)(F)F)(F)F)F
+
+> <PUBCHEM_CACTVS_TPSA>
+62.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+481.9469157
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+28
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+25  10  3
+
+$$$$
+89629231
+  -OEChem-06112523142D
+
+ 30 29  0     1  0  0  0  0  0999 V2000
+    3.7320   -1.3249    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7320   -1.3249    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8297    0.8228    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5137   -1.0566    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4534   -0.7145    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7694    1.1648    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0740    1.3468    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3931   -0.3725    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7091    1.5069    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3328   -0.0305    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6488    1.8489    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.4072    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660    1.7732    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660    0.0411    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8702    1.5932    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2725    0.3115    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5884    2.1909    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2319   -2.1909    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2319   -2.1909    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8659   -0.8247    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320   -0.4589    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.1717   -0.1169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1114    0.2252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.4071    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    7.0511    0.5672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9908    0.9092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.9072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9305    1.2512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3496    0.4612    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6119   -2.1908    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  1 19  2  0  0  0  0
+  1 20  2  0  0  0  0
+  1 21  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 23  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 24  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 24 27  1  0  0  0  0
+ 24 29  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 28  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+89629231
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+684
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+19
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQBwMcBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQQACAAACACAQBAAAAAAAIIAAAAAAHBAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAEAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,1,1,2,3,4,4,5,5,6,6,7,7,8,8,8-hexadecafluorooctane-3-sulfonic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,1,1,2,3,4,4,5,5,6,6,7,7,8,8,8-hexadecafluoro-3-octanesulfonic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1,1,1,2,3,4,4,5,5,6,6,7,7,8,8,8-hexadecafluorooctane-3-sulfonic acid
+
+> <PUBCHEM_IUPAC_NAME>
+1,1,1,2,3,4,4,5,5,6,6,7,7,8,8,8-hexadecafluorooctane-3-sulfonic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,1,1,2,3,4,4,5,5,6,6,7,7,8,8,8-hexadecakis(fluoranyl)octane-3-sulfonic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,1,1,2,3,4,4,5,5,6,6,7,7,8,8,8-hexadecafluorooctane-3-sulfonic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H2F16O3S/c9-1(3(11,12)13)2(10,28(25,26)27)4(14,15)5(16,17)6(18,19)7(20,21)8(22,23)24/h1H,(H,25,26,27)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+IYUVOPUTBPXFTK-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.8
+
+> <PUBCHEM_EXACT_MASS>
+481.9469157
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H2F16O3S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+482.14
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)S(=O)(=O)O)(C(F)(F)F)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)S(=O)(=O)O)(C(F)(F)F)F
+
+> <PUBCHEM_CACTVS_TPSA>
+62.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+481.9469157
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+28
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+21  2  3
+24  7  3
+
+$$$$
+89629238
+  -OEChem-06112523142D
+
+ 30 29  0     1  0  0  0  0  0999 V2000
+    2.9397    0.0301    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6717    2.0302    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3057   -0.3359    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0378    1.3962    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0378   -0.3359    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9038    0.8962    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9038   -0.8359    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7698    0.3962    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7698   -1.3359    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8057    2.2622    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4397    0.8962    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6477    2.3359    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6358   -0.1038    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6358   -1.8359    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8679   -1.9698    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5019   -0.6038    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5019   -2.3359    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0737   -0.4699    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.3722    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4397   -0.8359    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6717    1.0301    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.8057    0.5301    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.5378    0.5301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4038    0.0301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2698   -0.4699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3057    1.3962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1358   -0.9699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0019   -1.4699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2087    1.3402    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0737   -1.0898    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  1 19  2  0  0  0  0
+  1 20  2  0  0  0  0
+  1 22  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 23  1  0  0  0  0
+  5 23  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 21 29  1  0  0  0  0
+ 22 26  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+89629238
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+684
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+19
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQBwMcBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQQACAAACACAQBAAAAAAAIIAAAAAAHBAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAEAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,1,1,2,3,4,4,5,5,6,6,7,7,8,8,8-hexadecafluorooctane-2-sulfonic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,1,1,2,3,4,4,5,5,6,6,7,7,8,8,8-hexadecafluoro-2-octanesulfonic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1,1,1,2,3,4,4,5,5,6,6,7,7,8,8,8-hexadecafluorooctane-2-sulfonic acid
+
+> <PUBCHEM_IUPAC_NAME>
+1,1,1,2,3,4,4,5,5,6,6,7,7,8,8,8-hexadecafluorooctane-2-sulfonic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,1,1,2,3,4,4,5,5,6,6,7,7,8,8,8-hexadecakis(fluoranyl)octane-2-sulfonic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,1,1,2,3,4,4,5,5,6,6,7,7,8,8,8-hexadecafluorooctane-2-sulfonic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H2F16O3S/c9-1(3(12,7(19,20)21)28(25,26)27)2(10,11)4(13,14)5(15,16)6(17,18)8(22,23)24/h1H,(H,25,26,27)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+NYFOOIAWZZFPJH-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.8
+
+> <PUBCHEM_EXACT_MASS>
+481.9469157
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H2F16O3S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+482.14
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(C(C(F)(F)F)(F)S(=O)(=O)O)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(C(C(F)(F)F)(F)S(=O)(=O)O)F
+
+> <PUBCHEM_CACTVS_TPSA>
+62.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+481.9469157
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+28
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+21  2  3
+22  3  3
+
+$$$$
+134206366
+  -OEChem-06112523142D
+
+ 30 29  0     1  0  0  0  0  0999 V2000
+    9.7942    1.1830    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8301    1.0490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8301   -0.6830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6962   -0.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6962    1.5490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9641    0.5490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9641   -1.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5622    0.3170    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5622    2.0490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0981    0.0490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0981   -1.6830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    2.6830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2320   -0.4510    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320   -2.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.3170    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660   -0.9510    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660   -2.6830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6603    0.6830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2942    2.0490    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2942    0.3170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.6830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    1.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    1.6830    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.7320   -1.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3913    1.9930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1972    0.9930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  1 19  2  0  0  0  0
+  1 20  2  0  0  0  0
+  1 26  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 26 29  1  0  0  0  0
+ 27 28  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+134206366
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+686
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+19
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+7
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQBwMcBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQQACAAACACEQBCAAAAAAIIAAAAAAHBAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAEAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-hexadecafluoro-1-octanesulfonic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_NAME>
+1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-hexadecakis(fluoranyl)octane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H2F16O3S/c9-1(28(25,26)27)2(10,11)3(12,13)4(14,15)5(16,17)6(18,19)7(20,21)8(22,23)24/h1H,(H,25,26,27)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+AUKDNQZDSZEYCA-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.8
+
+> <PUBCHEM_EXACT_MASS>
+481.9469157
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H2F16O3S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+482.14
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)S(=O)(=O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)S(=O)(=O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+62.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+481.9469157
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+28
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+26  12  3
+
+$$$$
+139596859
+  -OEChem-06112523142D
+
+ 30 29  0     1  0  0  0  0  0999 V2000
+    3.4030   -1.8170    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3671    1.0490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3671   -0.6830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5010    0.5490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5010   -1.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2331   -0.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2331    1.5490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6350    0.0490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6350   -1.6830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0991    0.3170    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0991    2.0490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7690   -0.4510    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7690   -2.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4651    2.6830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1972    0.6830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8312    2.0490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8312    0.3170    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -2.3170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9030   -0.9510    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9030   -2.6830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    0.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -0.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331    0.6830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991    1.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4651    1.6830    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+   10.3312    1.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0021    1.9930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.0070    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  1 19  2  0  0  0  0
+  1 20  2  0  0  0  0
+  1 26  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 29  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+139596859
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+686
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+19
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+7
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQBwMcBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQQACAAACACAQBAAAAAAAIIAAAAAAHBAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAEAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,1,2,2,3,3,4,4,5,5,6,6,7,8,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,1,2,2,3,3,4,4,5,5,6,6,7,8,8,8-hexadecafluoro-1-octanesulfonic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1,1,2,2,3,3,4,4,5,5,6,6,7,8,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_NAME>
+1,1,2,2,3,3,4,4,5,5,6,6,7,8,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,1,2,2,3,3,4,4,5,5,6,6,7,8,8,8-hexadecakis(fluoranyl)octane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,1,2,2,3,3,4,4,5,5,6,6,7,8,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H2F16O3S/c9-1(3(12,13)14)2(10,11)4(15,16)5(17,18)6(19,20)7(21,22)8(23,24)28(25,26)27/h1H,(H,25,26,27)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+QXRYLKKFDKSCMD-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.8
+
+> <PUBCHEM_EXACT_MASS>
+481.9469157
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H2F16O3S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+482.14
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(F)F)(F)F)(C(F)(F)F)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(C(C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(F)F)(F)F)(C(F)(F)F)F
+
+> <PUBCHEM_CACTVS_TPSA>
+62.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+481.9469157
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+28
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+27  14  3
+
+$$$$
+140140520
+  -OEChem-06112523142D
+
+ 30 29  0     1  0  0  0  0  0999 V2000
+    3.4030   -1.0670    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    1.9330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5010    1.2990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5010   -0.4330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2331    1.2990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2331   -0.4330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6350    0.7990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6350   -0.9330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0991    0.7990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0991   -0.9330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7690    0.2990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7690   -1.4330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9651    0.2990    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9651   -1.4330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1972   -1.5670    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8312   -0.2010    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8312   -1.9330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -1.5670    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9030   -0.2010    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9030   -1.9330    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    0.9330    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    6.0010    0.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331    0.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991   -0.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -0.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4651   -0.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3312   -1.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    1.2430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.2570    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  1 19  2  0  0  0  0
+  1 20  2  0  0  0  0
+  1 26  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 23  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 21 29  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+140140520
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+686
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+19
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+7
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQBwMcBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQQACAAACACAQBAAAAAAAIIAAAAAAHBAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAEAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,1,2,2,3,3,4,5,5,6,6,7,7,8,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,1,2,2,3,3,4,5,5,6,6,7,7,8,8,8-hexadecafluoro-1-octanesulfonic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1,1,2,2,3,3,4,5,5,6,6,7,7,8,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_NAME>
+1,1,2,2,3,3,4,5,5,6,6,7,7,8,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,1,2,2,3,3,4,5,5,6,6,7,7,8,8,8-hexadecakis(fluoranyl)octane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,1,2,2,3,3,4,5,5,6,6,7,7,8,8,8-hexadecafluorooctane-1-sulfonic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H2F16O3S/c9-1(2(10,11)4(14,15)6(18,19)7(20,21)22)3(12,13)5(16,17)8(23,24)28(25,26)27/h1H,(H,25,26,27)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+GEMDFAUJDRZYPF-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.8
+
+> <PUBCHEM_EXACT_MASS>
+481.9469157
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H2F16O3S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+482.14
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)F
+
+> <PUBCHEM_CACTVS_TPSA>
+62.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+481.9469157
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+28
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+21  2  3
+
+$$$$
+140140522
+  -OEChem-06112523142D
+
+ 30 29  0     0  0  0  0  0  0999 V2000
+    8.0622    1.2500    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9641    0.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9641   -1.1160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8301    1.1160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8301   -0.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0981    0.1160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0981   -1.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6962   -0.1160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6962    1.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2320   -0.3840    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320   -2.1160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.2500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660   -0.8840    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660   -2.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5263    2.2500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1603    0.8840    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1603    2.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    1.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5622    0.3840    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5622    2.1160    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7942    1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6603    1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3957    0.7751    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1928    0.7751    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  1 19  2  0  0  0  0
+  1 20  2  0  0  0  0
+  1 24  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 27  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 29  1  0  0  0  0
+ 27 30  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+140140522
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+665
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+19
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+7
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQBwMcBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGwQAAAAACACgwBIAAAAAAAIAAAAAAHBAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2,2,2-trifluoroethyl 1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexane-1-sulfonate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluoro-1-hexanesulfonic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2,2,2-trifluoroethyl 1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexane-1-sulfonate
+
+> <PUBCHEM_IUPAC_NAME>
+2,2,2-trifluoroethyl 1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexane-1-sulfonate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2,2,2-tris(fluoranyl)ethyl 1,1,2,2,3,3,4,4,5,5,6,6,6-tridecakis(fluoranyl)hexane-1-sulfonate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluorohexane-1-sulfonic acid 2,2,2-trifluoroethyl ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H2F16O3S/c9-2(10,11)1-27-28(25,26)8(23,24)6(18,19)4(14,15)3(12,13)5(16,17)7(20,21)22/h1H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+OFQUEZCZVOSNSW-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+5.3
+
+> <PUBCHEM_EXACT_MASS>
+481.9469157
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H2F16O3S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+482.14
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(F)(F)F)OS(=O)(=O)C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(C(F)(F)F)OS(=O)(=O)C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
+
+> <PUBCHEM_CACTVS_TPSA>
+51.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+481.9469157
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+28
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+166653066
+  -OEChem-06112523142D
+
+ 30 29  0     0  0  0  0  0  0999 V2000
+    6.3301    1.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9641    1.3660    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9641   -0.3660    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0981    0.8660    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0981   -0.8660    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2320    0.3660    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320   -1.3660    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4282    1.3660    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4282   -0.3660    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5622    1.8660    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5622    0.1340    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2942    0.8660    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2942   -0.8660    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.5000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660   -0.1340    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660   -1.8660    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5263   -0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8301    0.1340    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8301    1.8660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7942   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6603   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2617   -0.9749    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0588   -0.9749    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  1 19  2  0  0  0  0
+  1 20  2  0  0  0  0
+  1 21  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 16 27  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 25  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 27  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 26 28  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 28 30  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+166653066
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+671
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+19
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+8
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQBwMcBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGwQAAAAACACAwBAAAAAAAAIAAAAAAHBAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,1,2,2,3,3,4-heptafluorobutyl 1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulfonate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,1,2,2,3,3,4,4,4-nonafluoro-1-butanesulfonic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1,1,2,2,3,3,4-heptafluorobutyl 1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulfonate
+
+> <PUBCHEM_IUPAC_NAME>
+1,1,2,2,3,3,4-heptafluorobutyl 1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulfonate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,1,2,2,3,3,4-heptakis(fluoranyl)butyl 1,1,2,2,3,3,4,4,4-nonakis(fluoranyl)butane-1-sulfonate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulfonic acid 1,1,2,2,3,3,4-heptafluorobutyl ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H2F16O3S/c9-1-2(10,11)3(12,13)7(21,22)27-28(25,26)8(23,24)5(16,17)4(14,15)6(18,19)20/h1H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+HIDPPDXGEVMDER-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+5.3
+
+> <PUBCHEM_EXACT_MASS>
+481.9469157
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H2F16O3S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+482.14
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(C(C(OS(=O)(=O)C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(C(C(C(OS(=O)(=O)C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)F
+
+> <PUBCHEM_CACTVS_TPSA>
+51.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+481.9469157
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+28
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+166653067
+  -OEChem-06112523142D
+
+ 30 29  0     1  0  0  0  0  0999 V2000
+    6.3301    0.1830    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9641    0.5490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9641   -1.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0981    0.0490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0981   -1.6830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2320   -0.4510    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320   -2.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4282   -0.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4282    1.5490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622   -0.8170    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2942    0.3170    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2942    2.0490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.3170    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660   -0.9510    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660   -2.6830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5263    1.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6603    2.6830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.6830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8301   -0.6830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8301    1.0490    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    0.6830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    0.1830    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    9.7942    1.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6603    1.6830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    0.8030    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1972    1.9930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  1 19  2  0  0  0  0
+  1 20  2  0  0  0  0
+  1 21  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 25  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 27  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 25 29  1  0  0  0  0
+ 26 28  1  0  0  0  0
+ 28 30  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+166653067
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+658
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+19
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+8
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQBwMcBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGwQAAAAACACgwBIAAAAAAAIAAAAAAHBAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,2,2,3,3,4,4-heptafluorobutyl 1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulfonate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,1,2,2,3,3,4,4,4-nonafluoro-1-butanesulfonic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1,2,2,3,3,4,4-heptafluorobutyl 1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulfonate
+
+> <PUBCHEM_IUPAC_NAME>
+1,2,2,3,3,4,4-heptafluorobutyl 1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulfonate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,2,2,3,3,4,4-heptakis(fluoranyl)butyl 1,1,2,2,3,3,4,4,4-nonakis(fluoranyl)butane-1-sulfonate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,1,2,2,3,3,4,4,4-nonafluorobutane-1-sulfonic acid 1,2,2,3,3,4,4-heptafluorobutyl ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H2F16O3S/c9-1(10)3(12,13)4(14,15)2(11)27-28(25,26)8(23,24)6(18,19)5(16,17)7(20,21)22/h1-2H
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+BZZVIRSGZLMWFX-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+5.6
+
+> <PUBCHEM_EXACT_MASS>
+481.9469157
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H2F16O3S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+482.14
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(C(C(F)F)(F)F)(F)F)(OS(=O)(=O)C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(C(C(C(F)F)(F)F)(F)F)(OS(=O)(=O)C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)F
+
+> <PUBCHEM_CACTVS_TPSA>
+51.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+481.9469157
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+28
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+25  10  3
+
+$$$$
