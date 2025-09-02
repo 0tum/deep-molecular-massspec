@@ -19,14 +19,14 @@ Usage example:
     --oversample_f_factor=20
 """
 
-from __future__ import annotations
+
 
 import argparse
 import json
 import os
 import random
 import re
-from typing import List, Tuple
+from typing import List, Tuple, Optional
 
 from rdkit import Chem
 from rdkit.Chem import rdMolDescriptors
@@ -36,7 +36,7 @@ import mass_spec_constants as ms_constants
 import parse_sdf_utils
 
 
-def _find_peak_prop_name(mol: Chem.Mol) -> str | None:
+def _find_peak_prop_name(mol: Chem.Mol) -> Optional[str]:
   # Preferred tag name in this repo
   if mol.HasProp(ms_constants.SDF_TAG_MASS_SPEC_PEAKS):
     return ms_constants.SDF_TAG_MASS_SPEC_PEAKS

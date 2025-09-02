@@ -1,0 +1,1 @@
+{"SPECTRUM_PREDICTION_TRAIN": ["train.tfrecord"], "SPECTRUM_PREDICTION_TEST": ["test.tfrecord"]}
